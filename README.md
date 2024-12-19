@@ -1,0 +1,2 @@
+# Express Server Not Starting
+This repository demonstrates a common error encountered when working with Express.js servers, specifically when the server fails to start or throws an error, often related to port usage.  The provided code shows a basic Express setup that may encounter this issue under certain circumstances.  A solution is also presented to address and fix the problem.
